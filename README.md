@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Donnie87
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Donnie87/Donnie87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... music load music 
+- 🌱 I’m currently learning ...about this code stuff very confusing
+- 💞️ I’m looking to collaborate on ...I don't think I'd be any help at all 
+- 📫 How to reach me .. donniepace421@gmail.com
